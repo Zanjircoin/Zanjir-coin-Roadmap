@@ -1,0 +1,147 @@
+# ⛓ ZANJIR COIN ($ZNJ) — Official Roadmap
+
+> *"The chain never breaks — freedom never stops."*
+
+This document outlines the development phases of ZANJIR COIN — a decentralized,
+mathematically capped, government-free digital currency built from Central Asia
+for the world.
+
+---
+
+## 📌 Overview
+
+| Phase | Status | Period |
+|---|---|---|
+| Phase 0 — Foundation | ✅ Complete | Q1 2026 |
+| Phase 1 — Testnet | 🔄 In Progress | Q2 2026 |
+| Phase 2 — Wallet & Tools | ⏳ Upcoming | Q3 2026 |
+| Phase 3 — Mainnet Launch | ⏳ Upcoming | Q4 2026 |
+| Phase 4 — Exchange Listing | ⏳ Upcoming | Q1 2027 |
+| Phase 5 — Ecosystem Growth | 🔭 Long-term | 2027+ |
+
+---
+
+## ✅ Phase 0 — Foundation (Complete)
+
+> *Building the intellectual and technical base.*
+
+- [x] Project concept defined and validated
+- [x] Tokenomics designed: 36,000,000 $ZNJ fixed supply, halving every 5 years (×11/12)
+- [x] Consensus mechanism selected: Proof-of-Work (SHA-256)
+- [x] Block time defined: ~10 minutes
+- [x] Smallest unit named: **Zanjircha** (0.00000001 ZNJ)
+- [x] Fair Launch confirmed: No premine, no ICO
+- [x] Whitepaper published on GitHub
+- [x] Logo and brand identity designed
+- [x] Telegram community channel launched: [@ZanjirCoin](https://t.me/Zanjircoin)
+- [x] GitHub organization created: [github.com/Zanjircoin](https://github.com/Zanjircoin)
+
+---
+
+## 🔄 Phase 1 — Testnet (In Progress)
+
+> *Turning theory into running code.*
+
+- [ ] Core blockchain protocol implementation (SHA-256 PoW)
+- [ ] Genesis block configuration
+- [ ] Node software — initial version (`zanjird`)
+- [ ] Testnet launch: public nodes accepting connections
+- [ ] Block explorer (testnet) — view transactions and blocks
+- [ ] Mining software — CPU miner for early participants
+- [ ] Bug bounty program opened on GitHub Issues
+- [ ] Community testing and feedback collection
+
+---
+
+## ⏳ Phase 2 — Wallet & Developer Tools (Upcoming)
+
+> *Making $ZNJ accessible to real users.*
+
+- [ ] **ZNJ Desktop Wallet** — Windows / macOS / Linux
+- [ ] **ZNJ Mobile Wallet** — Android (iOS later)
+- [ ] CLI wallet for advanced users
+- [ ] Address generation and key management
+- [ ] Transaction signing and broadcasting
+- [ ] Developer SDK (JavaScript / Python)
+- [ ] Full API documentation published
+- [ ] Seed phrase backup and recovery standard
+
+---
+
+## ⏳ Phase 3 — Mainnet Launch (Upcoming)
+
+> *The real chain begins.*
+
+- [ ] Security audit of core protocol
+- [ ] Final testnet stress tests passed
+- [ ] Mainnet genesis block mined
+- [ ] Public node network active
+- [ ] Block explorer (mainnet) live
+- [ ] Mining pool compatibility confirmed
+- [ ] Official mainnet announcement
+- [ ] Community mining event — open to all
+
+---
+
+## ⏳ Phase 4 — Exchange Listing (Upcoming)
+
+> *Connecting $ZNJ to the broader market.*
+
+- [ ] Application to decentralized exchanges (DEX)
+- [ ] Application to regional cryptocurrency exchanges
+- [ ] Trading pairs: ZNJ/USDT, ZNJ/BTC
+- [ ] Listing on CoinGecko and CoinMarketCap
+- [ ] Liquidity bootstrap program for early supporters
+- [ ] Public announcement of listing dates
+
+---
+
+## 🔭 Phase 5 — Ecosystem Growth (Long-term)
+
+> *From currency to ecosystem.*
+
+- [ ] Financial education platform integrated with $ZNJ
+- [ ] ZNJ Grants Program — funding community developers
+- [ ] Multilingual documentation (Uzbek, Russian, English)
+- [ ] Partnerships with Central Asian fintech communities
+- [ ] Hardware wallet support (Ledger / Trezor)
+- [ ] Layer-2 research for faster micropayments
+- [ ] Academic paper on ZNJ halving mathematics
+- [ ] Annual ZANJIR community report
+
+---
+
+## 📐 Technical Milestones Summary
+
+| Milestone | Target |
+|---|---|
+| Testnet nodes online | Q2 2026 |
+| Wallet v1.0 release | Q3 2026 |
+| Mainnet block #1 | Q4 2026 |
+| First exchange listing | Q1 2027 |
+| 1,000 active wallets | 2027 |
+| 10,000 community members | 2027 |
+
+---
+
+## 🤝 How to Follow Progress
+
+- ⭐ **Star this repo** to stay updated
+- 💬 **Join Telegram:** [t.me/Zanjircoin](https://t.me/Zanjircoin)
+- 🐛 **Open an Issue** — report bugs or suggest features
+- 🔀 **Submit a Pull Request** — contribute code
+- 📖 **Read the Whitepaper:** [github.com/Zanjircoin/zanjir-coin-whitepaper](https://github.com/Zanjircoin/zanjir-coin-whitepaper)
+
+---
+
+## ⚠️ Disclaimer
+
+This roadmap represents the current development vision and is subject to change
+as the project evolves. All timelines are estimates. ZANJIR COIN is an open-source,
+community-driven project — not a financial product. Nothing in this document
+constitutes financial or investment advice.
+
+---
+
+*ZANJIR COIN — Mathematical freedom. 36,000,000 supply. Forever.*
+*License: MIT — Free to use, free to share.*
